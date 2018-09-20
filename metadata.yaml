@@ -1,0 +1,31 @@
+_repo: The-Mary-Frances-Garden-Book-or-Adventures-Among-the-Garden-People_53098
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Zwirner, William F.
+    gutenberg_agent_id: '47215'
+    url: http://www.gutenberg.org/2009/agents/47215
+creator:
+  author:
+    agent_name: Fryer, Jane Eayre
+    birthdate: 1876
+    gutenberg_agent_id: '39315'
+    url: http://www.gutenberg.org/2009/agents/39315
+description: ''
+gutenberg_issued: '2016-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53098'
+  lccn: '16003148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardening -- Juvenile literature'
+- !lcsh 'Gardening'
+- !lcsh 'Mary Frances (Fictitious character) -- Juvenile fiction'
+- !lcc 'SB'
+- GITenberg
+title: The Mary Frances Garden Book; or, Adventures Among the Garden People
+url: http://www.gutenberg.org/ebooks/53098
